@@ -8,6 +8,7 @@
 - Master's., Data Science | Trine University, Michigan.	 			        		
 - Bachelor Of Engineering | SR University(SRIT).
 
+
 ## Work Experience
 **Sr Data Engineer @ Globex IT Solutions (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
