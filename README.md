@@ -4,15 +4,20 @@
 
 #### Technical Skills: Python, SQL, Azure, Snowflake, Excel, DataBricks, Spark, Business Management
 
+---
+
 ## Education					       		
 - Master's., Data Science | Trine University, Michigan.	 			        		
 - Bachelor Of Engineering | SR University(SRIT).
 
+---
 
 ## Work Experience
 **Sr Data Engineer @ Globex IT Solutions (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+
 
 **Data Science Consultant @ L&T  (_December 2018 - June 2022)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
@@ -31,4 +36,17 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+---
+
 ## Projects
+
+**Real-Time Streaming with Azure Databricks and Event Hubs** | August 2024  
+[GitHub Repository](https://github.com/MithunDataPro/Real-Time-Streaming-with-Azure-Databricks-and-Event-Hubs)
+
+- Developed an end-to-end real-time data streaming solution leveraging Azure Event Hubs, Databricks with Spark Structured Streaming, and Delta Lake.
+- Implemented the Medallion architecture to process and organize data into bronze, silver, and gold layers, ensuring scalable and efficient data management.
+- Enabled real-time data ingestion from diverse sources (Kafka, IoT devices, logs) into Azure Event Hubs, followed by processing with Databricks and Spark.
+- Utilized Power BI for real-time data visualization, facilitating actionable insights for business decision-making.
+- Secured data using Azure Key Vault, ensuring compliance and protection of sensitive information.
+
+*Skills:* Azure Event Hubs, Azure Databricks, Apache Spark, Delta Lake, Power BI, Azure Key Vault
