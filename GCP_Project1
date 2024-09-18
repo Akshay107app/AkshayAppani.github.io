@@ -1,0 +1,83 @@
+1. Ingesting Tables from On-Premise SQL Server (Azure Data Factory → GCP Dataflow or GCP Cloud Data Fusion)
+Azure Data Factory is used in Azure to orchestrate data movement from on-premises databases to the cloud.
+GCP Equivalent:
+Cloud Dataflow: A fully managed stream and batch data processing service.
+Cloud Data Fusion: A data integration service that allows you to create data pipelines using a graphical interface.
+Google Cloud Transfer Service: For batch transfer of large datasets.
+Skills Gained:
+
+Google Cloud Dataflow
+Google Cloud Data Fusion
+Cloud Transfer Service
+2. Storing Data in Azure Data Lake (Azure Data Lake → Google Cloud Storage)
+Azure Data Lake stores raw data in Azure.
+GCP Equivalent:
+Google Cloud Storage: Object storage for companies of all sizes.
+BigQuery: Can also store structured and semi-structured data.
+Skills Gained:
+
+Google Cloud Storage
+BigQuery for querying data
+3. Data Transformation (Azure Databricks → Google Cloud Dataproc or Google Cloud Dataflow)
+Azure Databricks is a data engineering and machine learning platform using Spark.
+GCP Equivalent:
+Google Cloud Dataproc: A managed Spark and Hadoop service.
+Google Cloud Dataflow: Can also be used for transformations.
+Skills Gained:
+
+Google Cloud Dataproc
+Spark
+Google Cloud Dataflow
+4. Data Warehouse (Azure Synapse Analytics → Google BigQuery)
+Azure Synapse Analytics provides data warehousing capabilities in Azure.
+GCP Equivalent:
+Google BigQuery: A fully managed, serverless data warehouse with built-in machine learning and BI capabilities.
+Skills Gained:
+
+Google BigQuery
+5. Business Intelligence (Power BI → Looker Studio / Google Data Studio)
+Power BI is used to build interactive dashboards.
+GCP Equivalent:
+Looker Studio (formerly Google Data Studio): A BI platform for creating dashboards and reports.
+Looker: More advanced BI and analytics capabilities.
+Skills Gained:
+
+Looker Studio (Data Studio)
+Looker
+6. Monitoring & Governance (Azure Active Directory & Azure Key Vault → Google Cloud IAM & Secret Manager)
+Azure Active Directory (AAD) provides identity and access management (IAM).
+Azure Key Vault stores and manages secrets, keys, and certificates.
+GCP Equivalent:
+Google Cloud IAM: Controls permissions and access to resources.
+Google Cloud Secret Manager: Manages and stores secrets, API keys, and other sensitive information.
+Skills Gained:
+
+Google Cloud Identity and Access Management (IAM)
+Google Cloud Secret Manager
+7. Programming Languages (Python, Scala → Python, Scala)
+You can continue to use Python and Scala with GCP services, especially for working with Spark in Dataproc and for transformation tasks in Dataflow or BigQuery.
+Complete GCP Solution:
+Data Ingestion:
+
+From on-premise SQL Server: Use Google Cloud Data Fusion or Cloud Dataflow for orchestration.
+Storage: Use Google Cloud Storage to store raw data.
+Data Transformation:
+
+Use Google Cloud Dataproc (Spark) or Google Cloud Dataflow for transforming raw data.
+Data Warehousing:
+
+Load transformed data into Google BigQuery for efficient querying and analytics.
+Data Visualization:
+
+Use Looker Studio or Looker to build interactive dashboards connected to BigQuery.
+Security and Governance:
+
+Use Google Cloud IAM for access control and Google Cloud Secret Manager for managing sensitive data.
+Skills Gained in GCP:
+Google Cloud Dataflow / Google Cloud Data Fusion (Data Ingestion)
+Google Cloud Storage (Raw Data Storage)
+Google Cloud Dataproc (Data Transformation using Spark)
+Google BigQuery (Data Warehousing)
+Looker / Looker Studio (Business Intelligence)
+Google Cloud IAM (Security and Governance)
+Google Cloud Secret Manager (Managing Secrets and Credentials)
